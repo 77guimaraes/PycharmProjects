@@ -1,4 +1,4 @@
-#Extrai dados do PDF gerado na página dos Órgãos de Execução da PMPA
+#Extrai dados do PDF gerado na página dos Órgãos de Execução da PMPA.
 
 import pdfplumber
 
