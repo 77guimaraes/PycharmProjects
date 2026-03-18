@@ -1,7 +1,10 @@
 #CONVERTENDO TIPOS
 
+#n1 recebe o que o usuário digita
 n = input('Digite um numero: ')
 #"n" é uma string que está sendo convertida para "float"
+
+
 print(n)
 
 print(n.isupper()) #ESTÁ SÓ COM LETRAS MAIÚSCULAS?
