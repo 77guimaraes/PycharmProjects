@@ -1,3 +1,5 @@
+#Extrai dados dos arquivos em PDF da PMPA (Efetivos)
+
 import os
 import re
 import pdfplumber
